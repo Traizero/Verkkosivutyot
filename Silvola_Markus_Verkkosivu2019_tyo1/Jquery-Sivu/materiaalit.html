@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+    <head>
+    <meta charset="utf-8">
+        <title>Jquery 3D Sivu</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <script src="jquery-1.11.2.js"></script>
+        <script type="text/javascript">
+		$(document).ready(function(){
+		$("#slideshow > div:gt(0)").hide();
+
+	setInterval(function() { 
+  	$('#slideshow > div:first')
+    .fadeOut(1000)
+    .next()
+    .fadeIn(1000)
+    .end()
+    .appendTo('#slideshow');
+	},  4000);
+	});
+	</script>
+    
+    </head>
+    
+    <body>
+    
+    
+    	<p><img src="3dbg.png" width="1880" height="284" alt=""/></p>
+        <div class="content">
+        <div class="links">
+        </br></br>
+        	<a href="index.html"><font color="white">Pääsivu</font></a>
+            
+            <a href="materials.html"><font color="white">Materiaalit</font></a><a href="printterit.html"><font color="white">Printterit</font></a><a href="lings.html"><font color="white">Linkit ja media</font></a>
+        </div>
+    </div>
+    
+    <!--<img  src="blackline.png" style="width: 100%; height: 100%; margin-top: -103px; margin-bottom: -162px;" /> -->
+    </br></br></br></br></br></br>
+   
+   <div class="content3">
+   <h1> Muovit  </h1>
+   <a> </br> Nylon, or Polyamide, is commonly used in powder form </br> with the sintering process or in filament form with the FDM process. </br> It is a strong, flexible and durable plastic material that has </br> proved reliable for 3D printing. It is naturally white in colour </br> but it can be coloured — pre- or post printing. This material  </br>can also be combined (in powder format) with powdered aluminium </br> to produce another common 3D printing material for sintering — Alumide.
+</br></br>
+ABS is another common plastic used for 3D printing, and is </br> widely used on the entry-level FDM 3D printers in filament form. </br> It is a particularly strong plastic and comes in a wide range of </br> colours. ABS can be bought in filament form from a number of </br> non-propreitary sources, which is another reason why </br> it is so popular.
+</br></br>
+PLA is a bio-degradable plastic material that has gained </br> traction with 3D printing for this very reason. It can be utilized </br> in resin format for DLP/SL processes as well as in filament </br> form for the FDM process. It is offered in a variety of colours, </br> including transparent, which has proven to be a useful </br> option for some applications of 3D printing. However it is not as </br> durable or as flexible as ABS.
+</br></br>
+LayWood is a specially developed 3D printing material for </br> entry-level extrusion 3D printers. It comes in filament </br> form and is a wood/polymer composite (also referred to as WPC). </a>
+   </div>
+   
+   <div class="content4">
+   <img src="material.jpg" width="388" height="284" alt=""/>
+   </div>
+   
+   <div class="content5">
+   <img src="dsc.jpg" width="388" height="284" alt=""/>
+   </div>
+   
+   <div class="content6">
+   <img src="119.jpg" width="388" height="284" alt=""/>
+   </div>
+   
+   </br></br></br></br>
+   <div class="content">
+        	<h1><font color="white"> &#169; 2016 Markus Silvola. Kaikki oikeudet on pidätetty ja viety putkaan.</font></h1>
+   
+        <!--<div class="yleistieto">
+        	<img src="nee.jpg" style="width:100%; height:auto;">
+        </div> -->
+        
+    
+    </body>
+</html>

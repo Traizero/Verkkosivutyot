@@ -1,0 +1,460 @@
+body {
+	
+	background-color:;
+	font: 12px Arial, Calibri, sans-serif;
+	color:#0B3B0B;
+	background-image:BG2.jpg;
+	background-repeat:repeat-x,y;
+	}
+
+h1
+{
+color:#FFFFFF;
+font-size:25px;
+}
+
+h2
+{
+color:#0B3B0B;
+font-size:25px;
+}
+
+h3
+{
+color:#0B3B0B;
+font-size:17px;
+}
+
+h4
+{
+color:#0B3B0B;
+font-size:11px;
+}
+
+
+
+
+
+.etusivu a:link {text-decoration:none;background-image: url(Etusivu.png);}
+.etusivu a:visited {text-decoration:none;}
+.etusivu a:hover {background-image: url('Etusivu2.png');background-repeat: no-repeat;background-position: center bottom;height:250pxwidth:300px;display:block;}
+.etusivu a:active {text-decoration:none;background: url('Etusivu2.png');}
+#etusivu
+{
+display: block;
+margin: 0 auto;
+text-indent: -9999px;
+width: 200px;
+height: 80px;
+
+}
+
+
+.tietoa a:link {text-decoration:none;background-image: url(tietoa.png);}
+.tietoa a:visited {text-decoration:none;}
+.tietoa a:hover {background-image: url('tietoa2.png');background-repeat: no-repeat;background-position: center bottom;height:250pxwidth:300px;display:block;}
+.tietoa a:active {text-decoration:none;background: url('tietoa2.png');}
+#tietoa
+{
+display: block;
+margin: 0 auto;
+text-indent: -9999px;
+width: 200px;
+height: 80px;
+
+}
+
+.galleria a:link {text-decoration:none;background-image: url(galleria.png);}
+.galleria a:visited {text-decoration:none;}
+.galleria a:hover {background-image: url('galleria2.png');background-repeat: no-repeat;background-position: center bottom;height:250pxwidth:300px;display:block;}
+.galleria a:active {text-decoration:none;background: url('galleria2.png');}
+#galleria
+{
+display: block;
+margin: 0 auto;
+text-indent: -9999px;
+width: 200px;
+height: 80px;
+
+}
+
+
+.musiikki a:link {text-decoration:none;background-image: url(musiikki.png);}
+.musiikki a:visited {text-decoration:none;}
+.musiikki a:hover {background-image: url('musiikki2.png');background-repeat: no-repeat;background-position: center bottom;height:250pxwidth:300px;display:block;}
+.musiikki a:active {text-decoration:none;background: url('musiikki2.png');}
+#musiikki
+{
+display: block;
+margin: 0 auto;
+text-indent: -9999px;
+width: 200px;
+height: 80px;
+
+}
+
+
+
+.linkit a:link {text-decoration:none;background-image: url(linkit.png);}
+.linkit a:visited {text-decoration:none;}
+.linkit a:hover {background-image: url('linkit2.png');background-repeat: no-repeat;background-position: center bottom;height:250pxwidth:300px;display:block;}
+.linkit a:active {text-decoration:none;background: url('linkit2.png');}
+#linkit
+{
+display: block;
+margin: 0 auto;
+text-indent: -9999px;
+width: 200px;
+height: 80px;
+
+}
+
+
+
+
+
+.h a:link {text-decoration:none;background-image: url(HeaderX3.jpg);}
+.h a:visited {text-decoration:none;}
+.h a:hover {background-image: url('HeaderX3.jpg');background-repeat: no-repeat;background-position: center bottom;height:250pxwidth:300px;display:block;}
+.h a:active {text-decoration:none;background: url('HeaderX3.jpg');}
+#h
+{
+display: block;
+margin: 0 auto;
+text-indent: -9999px;
+width: 900px;
+height: 80px;
+
+}
+
+
+
+.ex a:link {text-decoration:none;background-image: url(ex0.jpg);}
+.ex a:visited {text-decoration:none;}
+.ex a:hover {background-image: url('ex22.jpg');background-repeat: no-repeat;background-position: center bottom;height:250pxwidth:300px;display:block;}
+.ex a:active {text-decoration:none;background: url('ex22.jpg');}
+#ex
+{
+display: block;
+margin: 0 auto;
+text-indent: -9999px;
+width: 200px;
+height: 133px;
+
+}
+
+
+
+
+.suppea a:link {text-decoration:none;background-image: url(suppeamini.gif);}
+.suppea a:visited {text-decoration:none;}
+.suppea a:hover {background-image: url('suppeaminix.gif');background-repeat: no-repeat;background-position: center bottom;height:250pxwidth:300px;display:block;}
+.suppea a:active {text-decoration:none;background: url('suppeaminix.gif');}
+#suppea
+{
+display: block;
+margin: 0 auto;
+text-indent: -9999px;
+width: 300px;
+height: 200px;
+z-index: -100
+
+}
+
+
+.jatkuva a:link {text-decoration:none;background-image: url(jatkuvamini.gif);}
+.jatkuva a:visited {text-decoration:none;}
+.jatkuva a:hover {background-image: url('jatkuvamini2.gif');background-repeat: no-repeat;background-position: center bottom;height:250pxwidth:300px;display:block;}
+.jatkuva a:active {text-decoration:none;background: url('jatkuvamini2.gif');}
+#jatkuva
+{
+display: block;
+margin: 0 auto;
+text-indent: -9999px;
+width: 300px;
+height: 200px;
+z-index: -100
+
+}
+
+
+
+
+
+.stop a:link {text-decoration:none;background-image: url(stop2.gif);}
+.stop a:visited {text-decoration:none;}
+.stop a:hover {background-image: url('stop.gif');background-repeat: no-repeat;background-position: center bottom;height:250pxwidth:300px;display:block;}
+.stop a:active {text-decoration:none;background: url('stop.gif');}
+#stop
+{
+display: block;
+margin: 0 auto;
+text-indent: -9999px;
+width: 300px;
+height: 200px;
+z-index: -100
+
+}
+
+
+.diagonaali a:link {text-decoration:none;background-image: url(diagonaali.gif);}
+.diagonaali a:visited {text-decoration:none;}
+.diagonaali a:hover {background-image: url('diagonaali2.gif');background-repeat: no-repeat;background-position: center bottom;height:250pxwidth:300px;display:block;}
+.diagonaali a:active {text-decoration:none;background: url('diagonaali2.gif');}
+#diagonaali
+{
+display: block;
+margin: 0 auto;
+text-indent: -9999px;
+width: 300px;
+height: 200px;
+z-index: -100
+
+}
+
+
+
+
+
+.kolmas a:link {text-decoration:none;background-image: url(kolmas2.gif);}
+.kolmas a:visited {text-decoration:none;}
+.kolmas a:hover {background-image: url('kolmas3.gif');background-repeat: no-repeat;background-position: center bottom;height:250pxwidth:300px;display:block;}
+.kolmas a:active {text-decoration:none;background: url('kolmas3.gif');}
+#kolmas
+{
+display: block;
+margin: 0 auto;
+text-indent: -9999px;
+width: 300px;
+height: 200px;
+z-index: -100
+
+}
+
+
+
+.kehys a:link {text-decoration:none;background-image: url(kehys2.gif);}
+.kehys a:visited {text-decoration:none;}
+.kehys a:hover {background-image: url('kehys3.gif');background-repeat: no-repeat;background-position: center bottom;height:250pxwidth:300px;display:block;}
+.kehys a:active {text-decoration:none;background: url('kehys3.gif');}
+#kehys
+{
+display: block;
+margin: 0 auto;
+text-indent: -9999px;
+width: 300px;
+height: 200px;
+z-index: -100
+
+}
+
+
+
+.siluetti a:link {text-decoration:none;background-image: url(sileutti2.gif);}
+.siluetti a:visited {text-decoration:none;}
+.siluetti a:hover {background-image: url('siluetti.gif');background-repeat: no-repeat;background-position: center bottom;height:250pxwidth:300px;display:block;}
+.siluetti a:active {text-decoration:none;background: url('siluetti.gif');}
+#siluetti
+{
+display: block;
+margin: 0 auto;
+text-indent: -9999px;
+width: 300px;
+height: 200px;
+z-index: -100
+
+}
+
+
+
+.valo a:link {text-decoration:none;background-image: url(valo.gif);}
+.valo a:visited {text-decoration:none;}
+.valo a:hover {background-image: url('valo2.gif');background-repeat: no-repeat;background-position: center bottom;height:250pxwidth:300px;display:block;}
+.valo a:active {text-decoration:none;background: url('valo2.gif');}
+#valo
+{
+display: block;
+margin: 0 auto;
+text-indent: -9999px;
+width: 300px;
+height: 200px;
+z-index: -100
+
+}
+
+
+
+
+.yllatys a:link {text-decoration:none;background-image: url(yllatys.gif);}
+.yllatys a:visited {text-decoration:none;}
+.yllatys a:hover {background-image: url('yllatys2.gif');background-repeat: no-repeat;background-position: center bottom;height:250pxwidth:300px;display:block;}
+.yllatys a:active {text-decoration:none;background: url('yllatys2.gif');}
+#yllatys
+{
+display: block;
+margin: 0 auto;
+text-indent: -9999px;
+width: 300px;
+height: 200px;
+z-index: -100
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div.formcontainer {
+	margin:7%;
+	margin-left:15%;
+	position:relative;
+	float:left;
+	width:1280px;
+	height:713px;
+	background-color:#0CF;
+	border:2px solid;
+	border-radius:25px;
+	
+	}
+
+div.logo {
+	position:absolute;
+	left:5%;
+	top:5%;
+}
+img.riihimäki {
+	position:absolute;
+	left:20%;
+	top:2%;
+}
+
+div.content {
+	position:absolute;
+	left:29%;
+	top:68%;
+	height:39%;
+	width:43%;
+	overflow:auto;
+}
+div.formtausta {
+	position:absolute;
+	left:33%;
+	top:23%;
+	height:75%;
+	width:60%;
+	background-image:formtausta2.jpg ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div.gallery {
+	width: 115px;
+	height: 25px;
+	background-image: url(img/BGkuvat.jpg);
+	position: absolute;
+	left: 67%;
+	top: 17%;
+}
+
+div.gallery:hover {
+	background-image:url(img/BGkuvat.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div.text {
+	position:absolute;
+	color:#272113;
+	font-size:12px;
+	font-family:Verdana, Geneva, sans-serif;
+	left:5%;
+	top:15%;
+	height:70%;
+	width:80%;
+}
+div.headline {
+	position:absolute;
+	left:5%;
+	top:5%;
+	height:auto;
+	width:auto;
+	font-family:Verdana, Geneva, sans-serif;
+	color:brown;
+}
+div.textshort {
+	position:absolute;
+	color:#272113;
+	font-size:12px;
+	font-family:Verdana, Geneva, sans-serif;
+	left:10%;
+	top:10%;
+	height:70%;
+	width:40%;
+}
+div.newspic {
+	position:absolute;
+	color:#272113;
+	font-size:12px;
+	font-family:Verdana, Geneva, sans-serif;
+	right:1%;
+	top:10%;
+	height:350px;
+	width:300px;
+}
+div.headline2 {
+	position:absolute;
+	left:5%;
+	top:-4%;
+	height:auto;
+	width:auto;
+	font-family:Verdana, Geneva, sans-serif;
+	color:#540000;
+	font-size:35px;
+}

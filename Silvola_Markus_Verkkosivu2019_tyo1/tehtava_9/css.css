@@ -1,0 +1,100 @@
+body
+{
+background-color:#cccccc;
+background-image:url('bg3.jpg');
+background-repeat:repeat-x;
+font:16px arial, "Times New Roman", Times, serif;
+}
+
+h1
+{
+color:#33FFFF;
+font-size:30px;
+}
+
+h2
+{
+color:#339900;
+font-size:20px;
+}
+
+h3
+{
+color:##000000 ;
+font-size:15px;
+}
+
+.luokka1 a:link {text-decoration:none;font-size:30px;color:#000000;display:inline-block;width:80px;height:20px;padding:5px;}
+.luokka1 a:visited {text-decoration:none;font-size:30px;color:#000000;}
+.luokka1 a:hover {text-decoration:none;font-size:30px;color:#cccccc;border-bottom:8px solid #4d4d4d;}
+.luokka1 a:active {text-decoration:none;font-size:30px;color:#cccccc;border-bottom:5px solid #000000;}
+
+.luokka2:link {font-size:20px;text-align:center;background-color:#4d4d4d;color:#000000;text-decoration:none;display:block;width:217px;height:24px;padding:5px;}
+.luokka2:visited {font-size:20px;text-align:center;color:#000000;background-color:#4d4d4d;text-decoration:none;}
+.luokka2:hover {font-size:20px;text-align:center;background-image:url('linkki_bg2.jpg');;color:#000000;text-decoration:none;}
+.luokka2:active {font-size:20px;text-align:center;background-color:#4d4d4d;color:#000000;text-decoration:none;}
+
+.luokka2 a:link {font-size:20px;text-align:center;background-color:#4d4d4d;color:#000000;text-decoration:none;display:block;width:217px;height:24px;padding:5px;}
+.luokka2 a:visited {font-size:20px;text-align:center;color:#000000;background-color:#4d4d4d;text-decoration:none;}
+.luokka2 a:hover {font-size:20px;text-align:center;background-image:url('linkki_bg2.jpg');;color:#000000;text-decoration:none;}
+.luokka2 a:active {font-size:20px;text-align:center;background-color:#4d4d4d;color:#000000;text-decoration:none;}
+
+
+
+
+	
+	
+}
+
+#footer
+{
+color:#ffffff; font-size:18px;
+}
+
+#taulukko
+{
+border-collapse:collapse;
+width:550px;
+}
+
+#taulukko th
+{
+font-size:15px;
+background-color:#ffffff;
+}
+
+
+#taulukko td, #taulukko th
+{
+padding:5px;
+border:1px solid black;
+background-color: #ffffff;
+}
+
+#taulukko tr.alt td
+{
+background-color: #cccccc
+}
+
+div.text {
+	font-color: #880000 
+}
+
+.luokka3
+{
+	position: absolute;
+	left: 80px;
+	top: -2%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
